@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on E-Commerce Website<br>👯 I’m looking to collaborate on Python projects<br>🌱 I’m currently learning Back-end Devoplement<br>💬 Ask me about Hackathons<br><br>
+🔭 I’m currently working on E-Commerce Website <br>👯 I’m looking to collaborate on Python projects<br>🌱 I’m currently learning Back-end Devoplement<br>💬 Ask me about Hackathons<br><br>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/@f_deshmukh13) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/@faizandeshmukh13) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@f_deshmukh13) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:deshmukhfaizan13@gmail.com) 
