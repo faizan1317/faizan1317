@@ -1,6 +1,5 @@
 {
-  "testEnvironment": "jsdom",
-  "setupFilesAfterEnv": ["<rootDir>/tests/setupTests.js"],
+  "testEnvironment": "node",
   "moduleNameMapping": {
     "\\.(css|less|scss|sass)$": "identity-obj-proxy"
   },
